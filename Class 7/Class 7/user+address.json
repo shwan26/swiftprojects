@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Alice",
+        "age": "25",
+        "hobbys": ["Reading", "Cycling", "Hiking"],
+        "address": {
+            "number": "123",
+            "street": "Maple Street",
+            "postCode": 12345
+        }
+    },
+    {
+        "name": "Bob",
+        "age": "30",
+        "hobbys": ["Cooking", "Gardening"],
+        "address": {
+            "number": "456",
+            "street": "Oak Street",
+            "postCode": 67890
+        }
+    },
+    {
+        "name": "Charlie",
+        "age": "28",
+        "hobbys": ["Swimming", "Running", "Traveling"],
+        "address": {
+            "number": "789",
+            "street": "Pine Street",
+            "postCode": 11223
+        }
+    },
+    {
+        "name": "Diana",
+        "age": "22",
+        "hobbys": ["Painting", "Dancing"],
+        "address": {
+            "number": "101",
+            "street": "Birch Street",
+            "postCode": 44556
+        }
+    },
+    {
+        "name": "Eve",
+        "age": "35",
+        "hobbys": ["Writing", "Photography", "Yoga"],
+        "address": {
+            "number": "102",
+            "street": "Cedar Street",
+            "postCode": 77889
+        }
+    },
+    {
+        "name": "Frank",
+        "age": "27",
+        "hobbys": ["Fishing", "Hiking"],
+        "address": {
+            "number": "103",
+            "street": "Spruce Street",
+            "postCode": 33445
+        }
+    },
+    {
+        "name": "Grace",
+        "age": "24",
+        "hobbys": ["Gaming", "Drawing"],
+        "address": {
+            "number": "104",
+            "street": "Willow Street",
+            "postCode": 66778
+        }
+    },
+    {
+        "name": "Hank",
+        "age": "33",
+        "hobbys": ["Golfing", "Woodworking"],
+        "address": {
+            "number": "105",
+            "street": "Elm Street",
+            "postCode": 99000
+        }
+    },
+    {
+        "name": "Ivy",
+        "age": "29",
+        "hobbys": ["Knitting", "Baking"],
+        "address": {
+            "number": "106",
+            "street": "Poplar Street",
+            "postCode": 22112
+        }
+    },
+    {
+        "name": "Jack",
+        "age": "31",
+        "hobbys": ["Photography", "Traveling"],
+        "address": {
+            "number": "107",
+            "street": "Fir Street",
+            "postCode": 33446
+        }
+    },
+    {
+        "name": "Karen",
+        "age": "26",
+        "hobbys": ["Gardening", "Cycling"],
+        "address": {
+            "number": "108",
+            "street": "Hawthorn Street",
+            "postCode": 55667
+        }
+    },
+    {
+        "name": "Leo",
+        "age": "34",
+        "hobbys": ["Skiing", "Snowboarding"],
+        "address": {
+            "number": "109",
+            "street": "Chestnut Street",
+            "postCode": 77880
+        }
+    },
+    {
+        "name": "Mona",
+        "age": "32",
+        "hobbys": ["Yoga", "Meditation"],
+        "address": {
+            "number": "110",
+            "street": "Ash Street",
+            "postCode": 99887
+        }
+    },
+    {
+        "name": "Nina",
+        "age": "23",
+        "hobbys": ["Dancing", "Singing"],
+        "address": {
+            "number": "111",
+            "street": "Sycamore Street",
+            "postCode": 11234
+        }
+    },
+    {
+        "name": "Oscar",
+        "age": "28",
+        "hobbys": ["Running", "Basketball"],
+        "address": {
+            "number": "112",
+            "street": "Beech Street",
+            "postCode": 33447
+        }
+    }
+]
